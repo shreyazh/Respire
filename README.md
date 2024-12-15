@@ -72,13 +72,13 @@ pip install -r requirements.txt
 ## Screenshots
 
 ### Home Page
-![Home Page](https://via.placeholder.com/800x400)
+![Home Page](r1.png)
 
 ### FibroPred
-![FibroPred](https://via.placeholder.com/800x400)
+![FibroPred](r2.png)
 
 ### Data Visualization
-![Data Visualization](https://via.placeholder.com/800x400)
+![Data Visualization](r3.png)
 
 ## Contributing
 
