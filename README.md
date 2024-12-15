@@ -28,7 +28,7 @@ This Streamlit application is designed to provide innovative solutions to challe
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/respiratory-diseases-app.git
+   git clone https://github.com/shreyazh/Respire
    cd respiratory-diseases-app
    ```
 
