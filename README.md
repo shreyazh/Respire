@@ -2,7 +2,7 @@
 
 This Streamlit application is designed to provide innovative solutions to challenges related to respiratory diseases. It was developed as part of a hackathon initiative to tackle issues in respiratory health using technology.
 
-https://youtu.be/YV0klYNzNmU
+[![YOUTUBE VIDEO](https://github.com/user-attachments/assets/206ed377-3b2f-440a-9056-9b577be4b88f)](https://youtu.be/YV0klYNzNmU)
 
 ## Features
 
