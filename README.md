@@ -4,7 +4,7 @@ This Streamlit application is designed to provide innovative solutions to challe
 
 **CLICK THE IMAGE BELOW TO WATCH THE DEMO**
 
-![YOUTUBE VIDEO LINK](https://github.com/user-attachments/assets/c6a8a738-992a-4601-a20b-a807d03ffa48)](https://youtu.be/YV0klYNzNmU)
+[![YOUTUBE VIDEO LINK](https://github.com/user-attachments/assets/c6a8a738-992a-4601-a20b-a807d03ffa48)](https://youtu.be/YV0klYNzNmU)]
 
 ## Features
 
